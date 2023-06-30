@@ -18,9 +18,9 @@ $ yarn watch # npm run watch
 ## Structure
 The app consists of three components:
 
-NavBar
-Hero (hardcoded)
-Card (reusable)Structure
+* NavBar
+* Hero 
+* Card 
 ![clone_ss](https://github.com/Janhavi173/AirBnb_clone/assets/68103164/d55b5405-691e-4b91-8ff3-4282726fc700)
 
 
